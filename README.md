@@ -2,6 +2,7 @@
 
 ## Method
 
+* [![arXiv](https://img.shields.io/badge/arXiv-2506.23235-red)](https://arxiv.org/abs/2507.23751) CoT-Self-Instruct: Building high-quality synthetic prompts for reasoning and non-reasoning tasks
 * [![arXiv](https://img.shields.io/badge/arXiv-2506.23235-red)](https://arxiv.org/abs/2506.23235) Generalist Reward Models: Found Inside Large Language Models
 * [![arXiv](https://img.shields.io/badge/arXiv-2506.09942-red)](https://arxiv.org/abs/2506.09942) VERIF: Verification Engineering for Reinforcement Learning in Instruction Following
 * [![arXiv](https://img.shields.io/badge/arXiv-2506.01413-red)](https://arxiv.org/abs/2506.01413) Incentivizing Reasoning for Advanced Instruction-Following of Large Language Models
