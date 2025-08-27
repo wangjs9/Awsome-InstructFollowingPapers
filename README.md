@@ -3,7 +3,6 @@
 ## Method
 
 * [![arXiv](https://img.shields.io/badge/arXiv-2508.18255-red)](https://arxiv.org/abs/2508.18255) Hermes 4 Technical Report
-* [![arXiv](https://img.shields.io/badge/arXiv-2507.23751-red)](https://arxiv.org/abs/2507.23751) CoT-Self-Instruct: Building high-quality synthetic prompts for reasoning and non-reasoning tasks
 * [![arXiv](https://img.shields.io/badge/arXiv-2506.23235-red)](https://arxiv.org/abs/2506.23235) Generalist Reward Models: Found Inside Large Language Models
 * [![arXiv](https://img.shields.io/badge/arXiv-2506.09942-red)](https://arxiv.org/abs/2506.09942) VERIF: Verification Engineering for Reinforcement Learning in Instruction Following
 * [![arXiv](https://img.shields.io/badge/arXiv-2506.01413-red)](https://arxiv.org/abs/2506.01413) Incentivizing Reasoning for Advanced Instruction-Following of Large Language Models
@@ -33,6 +32,7 @@
 
 ## Dataset
 
+* [![arXiv](https://img.shields.io/badge/arXiv-2507.23751-red)](https://arxiv.org/abs/2507.23751) CoT-Self-Instruct: Building high-quality synthetic prompts for reasoning and non-reasoning tasks
 * [![arXiv](https://img.shields.io/badge/arXiv-2507.01352-red)](https://arxiv.org/abs/2507.01352) Skywork-Reward-V2: Scaling Preference Data Curation via Human-AI Synergy
 * [![arXiv](https://img.shields.io/badge/arXiv-2506.03968-red)](https://arxiv.org/abs/2506.03968) From REAL to SYNTHETIC: Synthesizing Millions of Diversified and Complicated User Instructions with Attributed Grounding
 * [![arXiv](https://img.shields.io/badge/arXiv-2505.23114-red)](https://arxiv.org/abs/2505.23114) Dataset Cartography for Large Language Model Alignment: Mapping and Diagnosing Preference Data
