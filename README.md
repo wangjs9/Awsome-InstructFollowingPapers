@@ -13,6 +13,7 @@
 * [![arXiv](https://img.shields.io/badge/arXiv-2409.14254-red)](https://arxiv.org/abs/2409.14254) Instruction Following without Instruction Tuning
 * [![arXiv](https://img.shields.io/badge/arXiv-2408.15339-red)](https://arxiv.org/abs/2408.15339) UNA: Unifying Alignments of RLHF/PPO, DPO and KTO by a Generalized Implicit Reward Function
 * [![arXiv](https://img.shields.io/badge/arXiv-2407.19594-red)](https://arxiv.org/abs/2407.19594) Meta-Rewarding Language Models: Self-Improving Alignment with LLM-as-a-Meta-Judge
+* [![arXiv](https://img.shields.io/badge/arXiv-2407.03502v1-red)](https://arxiv.org/abs/2407.03502v1) AgentInstruct: Toward Generative Teaching with Agentic Flows
 * [![arXiv](https://img.shields.io/badge/arXiv-2406.16061-red)](https://arxiv.org/abs/2406.16061) PORT: Preference Optimization on Reasoning Traces
 * [![arXiv](https://img.shields.io/badge/arXiv-2406.04412-red)](https://arxiv.org/abs/2406.04412) Spread Preference Annotation: Direct Preference Judgment for Efficient LLM Alignment
 * [![arXiv](https://img.shields.io/badge/arXiv-2405.20830-red)](https://arxiv.org/abs/2405.20830) Self-Augmented Preference Optimization: Off-Policy Paradigms for Language Model Alignment
