@@ -2,6 +2,8 @@
 
 ## Method
 
+
+* [![arXiv](https://img.shields.io/badge/arXiv-2509.07414-red)](https://arxiv.org/abs/2509.07414) Language Self-Play For Data-Free Training
 * [![arXiv](https://img.shields.io/badge/arXiv-2508.18255-red)](https://arxiv.org/abs/2508.18255) Hermes 4 Technical Report
 * [![arXiv](https://img.shields.io/badge/arXiv-2506.23235-red)](https://arxiv.org/abs/2506.23235) Generalist Reward Models: Found Inside Large Language Models
 * [![arXiv](https://img.shields.io/badge/arXiv-2506.09942-red)](https://arxiv.org/abs/2506.09942) VERIF: Verification Engineering for Reinforcement Learning in Instruction Following
