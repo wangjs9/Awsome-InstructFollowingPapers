@@ -28,6 +28,7 @@
 * [![arXiv](https://img.shields.io/badge/arXiv-2403.07691-red)](https://arxiv.org/abs/2403.07691) ORPO: Monolithic Preference Optimization without Reference Model
 * [![arXiv](https://img.shields.io/badge/arXiv-2402.10958-red)](https://arxiv.org/abs/2402.10958) Relative Preference Optimization: Enhancing LLM Alignment through Contrasting Responses across Identical and Diverse Prompts
 * [![arXiv](https://img.shields.io/badge/arXiv-2401.01335-red)](https://arxiv.org/abs/2401.01335) Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models
+* [![arXiv](https://img.shields.io/badge/arXiv-2401.18058-red)](https://arxiv.org/abs/2401.18058) LongAlign: A Recipe for Long Context Alignment of Large Language Models
 * [![arXiv](https://img.shields.io/badge/arXiv-2310.04484-red)](https://arxiv.org/abs/2310.04484) Ada-Instruct: Adapting Instruction Generators for Complex Reasoning
 * [![arXiv](https://img.shields.io/badge/arXiv-2305.18290-red)](https://arxiv.org/abs/2305.18290) Direct Preference Optimization: Your Language Model is Secretly a Reward Model
 * [![arXiv](https://img.shields.io/badge/arXiv-2304.12244-red)](https://arxiv.org/abs/2304.12244) WizardLM: Empowering Large Pre-trained Language Models to Follow Complex Instructions
